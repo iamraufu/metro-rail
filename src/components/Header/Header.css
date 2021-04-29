@@ -1,0 +1,29 @@
+.header-content {
+    margin: 20px 80px;
+}
+
+.link {
+    text-align: center;
+    color: black !important;
+    margin: 0 40px;
+}
+
+.link:hover {
+    /* background-color: rgb(209, 208, 208); */
+    border-radius: 10px;
+}
+
+.login,
+.login:hover {
+    background-color: #FF6E40;
+    width: 100px !important;
+    border-radius: 5px;
+    width: 20%;
+    color: white !important;
+}
+
+button {
+    border-radius: 20px !important;
+    font-weight: 700 !important;
+    width: 75% !important;
+}

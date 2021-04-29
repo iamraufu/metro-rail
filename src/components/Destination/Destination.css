@@ -1,0 +1,7 @@
+.search-container {
+    background-color: lightgray !important;
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    height: 22vh;
+    width: 60%;
+}

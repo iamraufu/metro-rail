@@ -1,0 +1,27 @@
+.timeline {
+    background-color: lightgray;
+    height: 40%;
+    border-radius: 15px;
+    /* border: 5px solid lightgray; */
+}
+
+.timeline-container {
+    background-color: #FF6E40;
+    width: 50%;
+    border-radius: 15px;
+    margin: 20px;
+    /* border: 5px solid lightgray; */
+}
+
+.tickets {
+    width: 50%;
+    display: flex;
+    border-radius: 15px;
+    margin: 20px;
+    /* border: 10px solid lightgray; */
+    background-color: white;
+}
+
+.ticket {
+    margin-right: 30%;
+}

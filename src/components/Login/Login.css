@@ -1,0 +1,62 @@
+.login-title {
+    text-align: left;
+    margin: 5%;
+}
+
+.form {
+    margin: auto;
+    width: 30vw;
+    height: 40vh;
+    /* background-color: aliceblue; */
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    text-align: left;
+}
+
+input {
+    border: none;
+    border-bottom: 1px solid lightgray;
+    text-align: left;
+    margin: 5px;
+    align-self: flex-start;
+    outline: none;
+}
+
+.social-button-container {
+    width: 25% !important;
+    outline: none;
+    margin: auto;
+    border: 2px solid lightgray;
+    border-radius: 20px !important;
+}
+
+.social-buttons {
+    background-color: white;
+    border: none;
+}
+
+.line {
+    display: flex;
+    margin: 20px auto;
+    width: 15%;
+}
+
+.line1,
+.line2 {
+    height: 1px;
+    width: 100px;
+    margin: auto;
+    background-color: lightgray;
+}
+
+.submit-btn {
+    width: 80%;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #FF6E40;
+    color: white;
+}
+
+h4 {
+    font-weight: 700 !important;
+}
